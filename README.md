@@ -51,7 +51,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/prison-escape-game.git
+    [git clone https://github.com/your-username/prison-escape-game.git](https://github.com/Th1l1na/The-Prison-Escape-mobile-Game)
     ```
 2. **Open the project in Android Studio**:
    - Launch Android Studio and open the project folder.
