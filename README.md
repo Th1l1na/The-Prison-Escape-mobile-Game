@@ -11,7 +11,6 @@
 - [Instructions](#instructions)
 - [Future Enhancements](#future-enhancements)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
@@ -95,7 +94,3 @@
 ## Contributors
 
 - [Thilina Samarasekara](https://github.com/Th1l1na)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
