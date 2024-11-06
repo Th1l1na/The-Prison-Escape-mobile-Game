@@ -62,7 +62,7 @@
 4. **Run the app**:
    - Click on the "Run" button in Android Studio to install the app on your connected device or emulator.
 
-## Instructions
+## Instructions for play
 
 1. **Main Screen**:
    - Tap the "Start" button to begin the game.
